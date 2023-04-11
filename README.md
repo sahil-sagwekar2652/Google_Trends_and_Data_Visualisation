@@ -1,5 +1,5 @@
 # Plotly notes  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sahil-sagwekar2652.sahil-sagwekar2652&left_color=orange&right_color=green)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sahil-sagwekar2652.Google_Trends_and_Data_Visualisation&left_color=orange&right_color=green)
 
 This [Google_Trends_and_Data_Visualisation.ipynb](./Google_Trends_and_Data_Visualisation.ipynb) file in this repository contains the basic analysis of search data from Google Trends for 3 search terms namely **Bitcoin**, **Unemployement rates** and **Tesla stock price**.
 
